@@ -50,9 +50,9 @@ Some of the darkest images of the failed state of American governance as well as
 
 [ ](https://www.reuters.com/news/picture/long-lines-at-food-banks-across-us-idUSRTX7EHU2)
 
-![overhead shot of cars in line at a San Antonio food bank in April 2020, from Reuters](https://user-images.githubusercontent.com/465045/109445173-001d0f00-7a0d-11eb-9d7d-b8c58162dc22.png)
+![overhead shot of cars in line at a San Antonio food bank in April 2020, from Reuters](/renamed-imgs/parking-aerial-1.png)
 
-![overhead shot of cars in line at a San Diego food bank in April 2020, from ABC News](https://user-images.githubusercontent.com/465045/109445290-44101400-7a0d-11eb-868c-38545f594874.png)
+![overhead shot of cars in line at a San Diego food bank in April 2020, from ABC News](/renamed-imgs/covid-car-line-1.png)
 
 ### Space <a href="space" id="space"></a>
 
@@ -68,31 +68,31 @@ A critical area where American cities fail in enabling biking – and especially
 
 For comparison, here are some examples of bike parking in other countries that would be a nightmare if replaced with car-parking:
 
-![car vs. bike parking at Eindhoven station](https://user-images.githubusercontent.com/465045/125334244-263ab000-e319-11eb-9937-c61885783beb.jpeg)
+![car vs. bike parking at Eindhoven station](/renamed-imgs/car-vs-bike-parking-2.jpeg)
 
 &#x20;_see also: _[_Re-thinking the School Run_](https://app.gitbook.com/s/-MUdgxOCTfiSbuYn44a7/TODO)_ and _[_London's school streets_](https://mobile.twitter.com/Knowlesy83/status/1414553018478039040)
 
-![picture of bike-parking outside a school in the Netherlands](https://user-images.githubusercontent.com/465045/109443478-a9153b00-7a08-11eb-9076-2c8a4310899c.png)
+![picture of bike-parking outside a school in the Netherlands](/renamed-imgs/bike-parking-2.png)
 
-![old picture of bike parking (in the Netherlands?)](https://user-images.githubusercontent.com/465045/109443438-8b47d600-7a08-11eb-80cd-6a88aea8878b.png)
+![old picture of bike parking (in the Netherlands?)](/renamed-imgs/bike-parking-1.png)
 
-![Bike vs. car parking space comparison](https://user-images.githubusercontent.com/465045/109443526-c8ac6380-7a08-11eb-96d0-1d40c322b8db.png)
+![Bike vs. car parking space comparison](/renamed-imgs/bike-parking-3.png)
 
-![Picture of a bike rack in the shape of the outline of a car, with 9 bikes locked to it](https://user-images.githubusercontent.com/465045/109443551-d82bac80-7a08-11eb-9b94-d6cb85dcdf45.png)
+![Picture of a bike rack in the shape of the outline of a car, with 9 bikes locked to it](/renamed-imgs/bike-parking-4.png)
 
-![Picture of 4 parked cars taking more space than 30 parked bikes](https://user-images.githubusercontent.com/465045/109443661-1d4fde80-7a09-11eb-8436-5600393d978d.png)
+![Picture of 4 parked cars taking more space than 30 parked bikes](/renamed-imgs/bike-vs-car-parking-1.png)
 
 Compare to car-centric North American analogs:
 
 [ ](https://www.youtube.com/watch?v=7IsMeKl-Sv0)
 
-![Supermarket parking sprawl in Vaughan, Canada](https://user-images.githubusercontent.com/465045/125335331-6f3f3400-e31a-11eb-9794-b8e2650b4f01.png)
+![Supermarket parking sprawl in Vaughan, Canada](/renamed-imgs/parking-space-njb.png)
 
-![Satellite picture of Arrowhead Stadium in Kansas City, with huge amounts of parking](https://user-images.githubusercontent.com/465045/109444012-242b2100-7a0a-11eb-83e6-2a66f0404001.png)
+![Satellite picture of Arrowhead Stadium in Kansas City, with huge amounts of parking](/renamed-imgs/parking-surface-2-stadium.png)
 
-![Satellite picture of AT\\&T Stadium, Arlington, surrounded by parking 2-3x the sqft of the structure](https://user-images.githubusercontent.com/465045/109444193-a6b3e080-7a0a-11eb-9849-9776771349c5.png)
+![Satellite picture of AT\\&T Stadium, Arlington, surrounded by parking 2-3x the sqft of the structure](/renamed-imgs/parking-surface-3-stadium.png)
 
-![Satellite image of Newark, NJ, with areas dedicated to surface parking highlighted](https://user-images.githubusercontent.com/465045/109443733-4ec8aa00-7a09-11eb-83f7-de4f591c3c67.png)
+![Satellite image of Newark, NJ, with areas dedicated to surface parking highlighted](/renamed-imgs/parking-surface-1.png)
 
 ### Cargo <a href="cargo" id="cargo"></a>
 
@@ -104,43 +104,43 @@ There is a small (but growing), dedicated group of people that love to show off 
 
 [ ](https://twitter.com/CourtneyCyclez/status/1353444517580578826)
 
-![Tern GSD with a huge amount of groceries on the front and back](https://user-images.githubusercontent.com/465045/109440506-854df700-7a00-11eb-8474-d96342f7828c.png)
+![Tern GSD with a huge amount of groceries on the front and back](/renamed-imgs/cargo-1.png)
 
 [ ](https://twitter.com/spokesmama/status/1364753194681659395)
 
-![Costco shopping cart full of groceries to be loaded onto a Tern GSD](https://user-images.githubusercontent.com/465045/109440535-a0b90200-7a00-11eb-873f-38b5cb617d2e.png)
+![Costco shopping cart full of groceries to be loaded onto a Tern GSD](/renamed-imgs/cargo-2.png)
 
-![cargo bike loaded with potting soil and a roll of chain-link fence](https://user-images.githubusercontent.com/465045/109441109-5a64a280-7a02-11eb-9756-6942cb5d34c4.png)
+![cargo bike loaded with potting soil and a roll of chain-link fence](/renamed-imgs/cargo-3-soil.png)
 
 [ ](https://twitter.com/fighterkites/status/1400141235558432769)
 
-![Bullitt bakfiet with bulky carpentry tools in the front "box"](https://user-images.githubusercontent.com/465045/125380346-12ff0300-e360-11eb-9cbe-07fc4fa993f8.png)
+![Bullitt bakfiet with bulky carpentry tools in the front "box"](/renamed-imgs/bullitt-cargo.png)
 
 #### Kids <a href="kids" id="kids"></a>
 
 Even my X3 (VanMoof's smallest bike) supports [a Yepp child seat](https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-yepp-maxi-\\_-12020232) (the most popular brand I see used):
 
-![VanMoof X3 with a child seat on the back](https://user-images.githubusercontent.com/465045/109441255-c6dfa180-7a02-11eb-9b73-d177896842be.png)
+![VanMoof X3 with a child seat on the back](/renamed-imgs/vanmoof-kid-seat.png)
 
 Larger bikes can fit 2 on the back easily:
 
 [ ](https://twitter.com/christineadair/status/1289669201674690560)
 
-![Woman biking in heels with two children facing each other and playing "patty cake" on the back of the bike](https://user-images.githubusercontent.com/465045/109443060-99e1bd80-7a07-11eb-97b7-98d079e9c2e8.png)
+![Woman biking in heels with two children facing each other and playing "patty cake" on the back of the bike](/renamed-imgs/cargo-kids-mom.png)
 
 There are also front-loading options ("bakfiets" or "box bikes"):
 
-![Woman cargo-biking in NYC with 2 children in a bakfiet](https://user-images.githubusercontent.com/465045/109441210-9f88d480-7a02-11eb-90a3-90065b0b3b85.png)
+![Woman cargo-biking in NYC with 2 children in a bakfiet](/renamed-imgs/urban-arrow-kids-nyc.png)
 
-![Cargo bike carrying four children and their bikes](https://user-images.githubusercontent.com/465045/109442955-643cd480-7a07-11eb-8097-677d2e7491ad.jpeg)
+![Cargo bike carrying four children and their bikes](/renamed-imgs/cargo-kids-bikes.jpeg)
 
 [ ](https://twitter.com/jeffnovich/status/1400549753205800963)
 
-![Urban Arrow bakfiet with 2 kids in the front](https://user-images.githubusercontent.com/465045/125380451-3629b280-e360-11eb-8a09-3122f04eec74.png)
+![Urban Arrow bakfiet with 2 kids in the front](/renamed-imgs/urban-arrow-kids-waterfront.png)
 
 Of course, it's possible to do even more with less:
 
-![Woman biking with 4 children on a bicycle – 2 in front, 2 in back](https://user-images.githubusercontent.com/465045/109441501-61d87b80-7a03-11eb-96d8-46d06703c398.png)
+![Woman biking with 4 children on a bicycle – 2 in front, 2 in back](/renamed-imgs/cargo-4-kids.png)
 
 but luckily, new and evolving e-bike technology is making all configurations much, much easier.
 
@@ -152,19 +152,19 @@ My grocery runs since getting an e-bike have also been so surprising and delight
 
 &#x20;_Farmer's market runs 🙏🙏_
 
-![Groceries on counter-top: bread, soup, sauce, vegetables, cheeses](https://user-images.githubusercontent.com/465045/109439533-aca2c500-79fc-11eb-926d-4f2cf9689af1.png)
+![Groceries on counter-top: bread, soup, sauce, vegetables, cheeses](/renamed-imgs/groceries-2.png)
 
 &#x20;_and it folds!_
 
-![Tern Vektron Q9 laden with groceries in front basket, rear basket, and 2 panniers](https://user-images.githubusercontent.com/465045/109439251-97796680-79fb-11eb-80fd-83c5edbc7ad4.png)
+![Tern Vektron Q9 laden with groceries in front basket, rear basket, and 2 panniers](/renamed-imgs/tern-la-croix.png)
 
 &#x20;_going for the "La Croix + Juice" record_
 
-![Groceries on counter-top: 3 12-packs of sparkling water, 3 half-gallons of juice, and a dozen random items](https://user-images.githubusercontent.com/465045/109439274-afe98100-79fb-11eb-8ba6-c08ffa51ade3.png)
+![Groceries on counter-top: 3 12-packs of sparkling water, 3 half-gallons of juice, and a dozen random items](/renamed-imgs/groceries-1.png)
 
 &#x20;_Sometimes you just have a craving… or 7_
 
-![Groceries on counter-top: donuts, pumpkin pie, ice cream, bread](https://user-images.githubusercontent.com/465045/109439586-f8ee0500-79fc-11eb-9b80-f4c059d226fe.png)
+![Groceries on counter-top: donuts, pumpkin pie, ice cream, bread](/renamed-imgs/groceries-3.png)
 
 #### PoV: Moving house <a href="pov-moving-house" id="pov-moving-house"></a>
 
@@ -172,11 +172,11 @@ Recently, I moved to my brother's empty apartment for 9d (after a small-chance o
 
 I packed a comfortable >1wk vacation into 4 bags (2 [panniers](gear.md#panniers), 1 bag in front rack, 1 backpack), and [biked, ferried, and biked from Jersey City to the Flatiron](https://www.strava.com/activities/4777398862):&#x20;
 
-![VanMoof X3 with two panniers, small tube bags, and tote bag in front rack](https://user-images.githubusercontent.com/465045/109439794-ca245e80-79fd-11eb-8133-22e50555080d.png)
+![VanMoof X3 with two panniers, small tube bags, and tote bag in front rack](/renamed-imgs/vanmoof-snow-move.png)
 
 …[and back 9d later](https://www.strava.com/activities/4820311973) (having added [pogies](gear.md#pogies) for no-nonsense hand-warming):&#x20;
 
-![VanMoof at ferry dock with panniers, backpack, and fleece pogies on handlebars](https://user-images.githubusercontent.com/465045/109440048-c80ecf80-79fe-11eb-98a3-40e7e01fe1fe.png)
+![VanMoof at ferry dock with panniers, backpack, and fleece pogies on handlebars](/renamed-imgs/vanmoof-39th.png)
 
 ### _Fun_ <a href="fun" id="fun"></a>
 

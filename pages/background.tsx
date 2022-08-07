@@ -1,4 +1,5 @@
 import Markdown from "../src/md";
+import styles from "../styles/Home.module.css";
 
 const md = `
 # Background
@@ -29,11 +30,13 @@ const md = `
   * Got a [Brompton Electric](bikes.md#e-brompton); small fold + portable, nice for little errands, bringing it inside buildings/restaurants
   * 3k total miles, mix of errands, recreation, and longer/overnight trips
 
-![4 ebikes in my office: electric roadbike \\(Creo\\) on the wall, Brompton and Tern folded in a corner, and VanMoof X3 next to them](https://user-images.githubusercontent.com/465045/125326778-69dcec00-e310-11eb-9507-beb37eb8b4dd.png)
+![4 ebikes in my office: electric roadbike \\(Creo\\) on the wall, Brompton and Tern folded in a corner, and VanMoof X3 next to them](/renamed-imgs/office-4-ebikes.png)
 `
 
 export default function Home() {
     return (
-        <div>{Markdown(md)}</div>
+        <main className={styles.main}>
+            {Markdown(md)}
+        </main>
     )
 }

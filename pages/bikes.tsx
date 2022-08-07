@@ -42,7 +42,7 @@ A rough overview of the specs on my e-bikes \\(and a few other models I've looke
 * You may want to be within range of a VanMoof shop \\(I recommend [booking a test ride](https://www.vanmoof.com/en-US/test-rides) if you are!\\)
 * The battery is not removable, so you need to be able to keep the bike somewhere where you also charge it
 
-![VanMoof + gear parked in Sheep&apos;s Meadow in Central Park, NYC](https://user-images.githubusercontent.com/465045/125368539-682f1a80-e348-11eb-8fe4-52089212e8bc.png)
+![VanMoof + gear parked in Sheep&apos;s Meadow in Central Park, NYC](/renamed-imgs/vanmoof-meadow.png)
 
 #### "Boost button" <a id="boost-button"></a>
 
@@ -102,25 +102,25 @@ I've observed them to quote a 2-3mo timeframe for shipping, only to have the bik
 
 I stayed in a friend's apt for 2wks via VanMoof: 
 
-![VanMoof + bags: 2 panniers, front grocery bag, backpack](https://user-images.githubusercontent.com/465045/125330516-e1ad1580-e314-11eb-9d2d-99da605c5ff4.png)
+![VanMoof + bags: 2 panniers, front grocery bag, backpack](/renamed-imgs/vanmoof-bags-evan-apt.png)
 
 It worked well through the winter: 
 
-![VanMoof + bags on snowy Hoboken waterfront](https://user-images.githubusercontent.com/465045/125330724-191bc200-e315-11eb-9277-cd3cafbee947.png)
+![VanMoof + bags on snowy Hoboken waterfront](/renamed-imgs/vanmoof-snow-2.png)
 
 I take it to Central Park pretty regularly, with picnic/Aerobie gear: 
 
-![VanMoof + 2 friends in Sheep&apos;s Meadow](https://user-images.githubusercontent.com/465045/125330910-53855f00-e315-11eb-9da0-c2da43bc60bc.png)
+![VanMoof + 2 friends in Sheep&apos;s Meadow](/renamed-imgs/sheep-meadow-1.png)
 
 I also occasionally do [grocery runs](reflections.md#pov-grocery-runs) with it: 
 
-![VanMoof with 2 cases of Wild Basin bungeed into the front rack, panniers on the back](https://user-images.githubusercontent.com/465045/125368650-b93f0e80-e348-11eb-8f72-e6250f2fa63d.png)
+![VanMoof with 2 cases of Wild Basin bungeed into the front rack, panniers on the back](/renamed-imgs/vanmoof-front-rack-drinks.png)
 
 ### [Brompton Electric](https://us.brompton.com/bikes/brompton-electric) <a id="e-brompton"></a>
 
 Bromptons are a classic/famous British folding bike, and they did a decent job engineering a motor and battery onto the front. I bought mine from [Redbeard Bikes](https://g.page/RedbeardBikes) in Brooklyn \\(delightful store run by a couple who have been very helpful through my process\\).
 
-![Brompton Electric, with lights around the frame, at ferry terminal as boat comes in](https://user-images.githubusercontent.com/465045/125362410-db329400-e33c-11eb-88b6-2f70175dc69b.png)
+![Brompton Electric, with lights around the frame, at ferry terminal as boat comes in](/renamed-imgs/brompton-lights-39th-ferry.png)
 
 #### Pros
 
@@ -140,15 +140,15 @@ Bromptons are a classic/famous British folding bike, and they did a decent job e
 
 Brompton Electric, folded, next to a much larger/heavier throttle e-bike: 
 
-![Brompton Electric, folded, next to a much larger/heavier throttle e-bike](https://user-images.githubusercontent.com/465045/125362721-5dbb5380-e33d-11eb-8e71-e1c9009a2fa3.png)
+![Brompton Electric, folded, next to a much larger/heavier throttle e-bike](/renamed-imgs/brompton-foldies-meadow.png)
 
 On [a BikeJC light-up ride](https://www.instagram.com/p/COqyBwPjZyP/): 
 
-![Cockpit view of Brompton with festive lights on frame](https://user-images.githubusercontent.com/465045/125363177-2ac58f80-e33e-11eb-8635-31edc4e63a18.png)
+![Cockpit view of Brompton with festive lights on frame](/renamed-imgs/brompton-cockpit-light-up-ride.png)
 
 Folded into "shopping cart" mode inside a CVS: 
 
-![Brompton, folded in &quot;shopping cart&quot; mode inside a CVS](https://user-images.githubusercontent.com/465045/125362821-8ba09800-e33d-11eb-8bbb-48303f047e4b.png)
+![Brompton, folded in &quot;shopping cart&quot; mode inside a CVS](/renamed-imgs/brompton-folded-cvs.png)
 
 ### [Tern Vektron Q9](https://www.ternbicycles.com/us/bikes/471/vektron-q9) <a id="q9"></a>
 
@@ -156,7 +156,7 @@ This was my first ebike, from [Bfold](https://goo.gl/maps/BTfhfQWMpm5BVMt97), a 
 
 I also test rode a Vektron at [Propel](https://g.page/propel-bikes-brooklyn) in Brooklyn, who had a very slick appointment-booking flow and beautiful inventory of Reise & Muller bikes. [Their YouTube channel](https://www.youtube.com/user/LIElectricBikes) is also an excellent source of ebike info; [here's their review of the Vektron](https://www.youtube.com/watch?v=FWhOQxky0lo).
 
-![Tern Vektron Q9 loaded up with plants at a plant store](https://user-images.githubusercontent.com/465045/125362097-4e87d600-e33c-11eb-977f-3db950ebee0a.png)
+![Tern Vektron Q9 loaded up with plants at a plant store](/renamed-imgs/tern-plant-store.png)
 
 #### Pros
 
@@ -178,17 +178,17 @@ I also test rode a Vektron at [Propel](https://g.page/propel-bikes-brooklyn) in 
 
 My Tern and Brompton, folded in my office: 
 
-![Tern Vektron Q9 folded next to Brompton Electric](https://user-images.githubusercontent.com/465045/125362528-0cab5f80-e33d-11eb-9090-47692095f86b.png)
+![Tern Vektron Q9 folded next to Brompton Electric](/renamed-imgs/tern-brompton-foldies-office.png)
 
 Carrying groceries: 
 
-![Q9 in elevator with shopping bags and panniers](https://user-images.githubusercontent.com/465045/125363465-a7f10480-e33e-11eb-83cd-6fa77a73f89d.png)
+![Q9 in elevator with shopping bags and panniers](/renamed-imgs/tern-elevator-groceries-2.png)
 
 ### [Specialized Turbo Creo SL Comp Carbon \\("Creo"\\)](https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435?color=300465-184435) <a id="creo"></a>
 
 The Creo is a high-end, carbon-frame road-bike with a slick integrated motor+battery. Specialized seems to be one of the first brands to have executed on this really well, and the result is a transportation machine the likes of which has never existed before. It's really incredible: light, fast, fun to ride, smooth pedal assist, very efficient / long range.
 
-![Creo plugged in + charging, along with &quot;range extender&quot; extra battery](https://user-images.githubusercontent.com/465045/125377936-d7fad080-e35b-11eb-8bc4-0784a04bfeef.png)
+![Creo plugged in + charging, along with &quot;range extender&quot; extra battery](/renamed-imgs/creo-evan-apt.png)
 
 The "never existed before" claim can be applied to many ebikes, since there are many companies exploring a huge design space, and leveraging cutting-edge battery and bike material technologies, but the Creo is remarkable for having many of the best attributes of ebikes as well as of performance road-bikes. It starts at 28lbs \\(including battery+motor\\), has the most range \\(40-130mi, depending on boost level and extra battery use\\), and provides a mobility superpower that very few people have experienced.
 
@@ -254,19 +254,19 @@ For longer rides, or rides with leg-bikers, I can drop to boost level 1, where i
 
  Loaded up for a bike-train-bike-boat-bike trip home from my in-laws' in Westchester: 
 
-![Creo with Revelate 16L spinelock seatpost bag, frame bag, top tube &quot;magtank&quot;, handlebar roll pouch, 2 snack bags, range extender in water bottle cage, and rear-view mirror](https://user-images.githubusercontent.com/465045/125376177-771dc900-e358-11eb-8584-44962b59b367.png)
+![Creo with Revelate 16L spinelock seatpost bag, frame bag, top tube &quot;magtank&quot;, handlebar roll pouch, 2 snack bags, range extender in water bottle cage, and rear-view mirror](/renamed-imgs/creo-roundtop-packed.png)
 
 Same trip, at the ferry at 39th St on the west side of Manhattan: 
 
-![Creo laden with bags, and backpack on the side, at NY Waterway ferry terminal as boat comes in](https://user-images.githubusercontent.com/465045/125376378-d67bd900-e358-11eb-89eb-a3812e17308b.png)
+![Creo laden with bags, and backpack on the side, at NY Waterway ferry terminal as boat comes in](/renamed-imgs/creo-39th-packed.png)
 
 ≈2.5hrs door-to-door \\(similar to taking a car to Metro North then subway from Grand Central, and comparable to a 90-120mins drive\\), with less than an hour biking: 
 
-![Strava map showing 12mi riding in 45mins on a journey from Bedford to Jersey City, including a Metro North train and NY Waterway ferry](https://user-images.githubusercontent.com/465045/125376720-9e28ca80-e359-11eb-8335-2a5de33b6d87.png)
+![Strava map showing 12mi riding in 45mins on a journey from Bedford to Jersey City, including a Metro North train and NY Waterway ferry](/renamed-imgs/strava-roundtop-jc.png)
 
  My longest ride to date was a 93mi day on [the "Harbor Ring" ride](https://harborring.org/) \\(around New York harbor, except for the 2mi Verrazzano bridge between Brooklyn and Staten Island, which has 13 lanes for cars and biking/walking is prohibited\\):
 
-![Strava map showing a 92.8mi ride between each end of the Verrazzano bridge](https://user-images.githubusercontent.com/465045/125375455-0e821c80-e357-11eb-9589-2d0cfd80f3c7.png)
+![Strava map showing a 92.8mi ride between each end of the Verrazzano bridge](/renamed-imgs/strava-harbor-ring-map.png)
 
 I was leading a group of leg-bikes, and alternated between boost levels 1, 2, and 0 \\(just riding it as a regular road-bike with some extra weight, which was also totally fine; I was generally still slowing down to wait for folks\\).
 

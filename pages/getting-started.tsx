@@ -29,7 +29,7 @@ A few specific safety sub-topics:
 
 Here are [some NYC DOT stats](https://www1.nyc.gov/html/dot/html/bicyclists/bikestats.shtml#crashdata):
 
-![Bicyclists killed or seriously injured \\(KSI\\), total and per 1e7 trips, over time; total is roughly flat around 350/yr, rate drops from 80 per 10MM trips in 2000 to 10 in 2018](https://user-images.githubusercontent.com/465045/125351401-0a8dd480-e32e-11eb-8e6c-d2652f3f51ed.png)
+![Bicyclists killed or seriously injured \\(KSI\\), total and per 1e7 trips, over time; total is roughly flat around 350/yr, rate drops from 80 per 10MM trips in 2000 to 10 in 2018](/renamed-imgs/nyc-bike-ksi-per-trip-chart.png)
 
 * Bicyclists killed or seriously injured \\(KSI\\) is roughly flat since 2000 \\(around 350/yr\\)
 * The rate \\(per 10MM trips\\) dropped from ≈80 in 2000 to ≈10 in 2018
@@ -42,7 +42,7 @@ Here are [some NYC DOT stats](https://www1.nyc.gov/html/dot/html/bicyclists/bike
 
 Cities are often the safest places to cycle, because cars aren't going as fast:
 
-![Probability of pedestrian fatality, when hit by driver, as a function of driver speed: &amp;lt;10% at 30kph, 80% at 50kph, &#x2248;100% at 70kph](https://user-images.githubusercontent.com/465045/125352720-9fdd9880-e32f-11eb-8d3a-0acfcb946277.png)
+![Probability of pedestrian fatality, when hit by driver, as a function of driver speed: &amp;lt;10% at 30kph, 80% at 50kph, &#x2248;100% at 70kph](/renamed-imgs/fatality-vs-speed.png)
 
 Biking is often safer if you can match the speed of traffic, [which is one reason I feel much safer on ebikes](reflections.md#speed-safety).
 
@@ -60,9 +60,9 @@ The solution to sidewalk-riding nuisances is to make roads safe for cycling. Ped
 
 [ ](https://mobile.twitter.com/_dmoser/status/1405782816386859011)
 
-![Comic showing drivers with plenty of space and pedestrians and cyclists fighting for scraps](https://user-images.githubusercontent.com/465045/125380543-56f20800-e360-11eb-9b80-b0a93d904f21.png)
+![Comic showing drivers with plenty of space and pedestrians and cyclists fighting for scraps](/renamed-imgs/comic-car-bike-ped-space.png)
 
-![comic showing roads full of cars and parking, a family on bikes on a sidewalk, and a driver saying &quot;If you take this parking for a bike lane, where will I park my car?! You&apos;re not considering my needs!&quot;](https://user-images.githubusercontent.com/465045/125346318-96503280-e327-11eb-93df-b407b8b26c99.png)
+![comic showing roads full of cars and parking, a family on bikes on a sidewalk, and a driver saying &quot;If you take this parking for a bike lane, where will I park my car?! You&apos;re not considering my needs!&quot;](/renamed-imgs/comic-parking-needs.png)
 
 #### Stopping at stop signs + red lights <a id="stopping-at-stops"></a>
 
@@ -85,7 +85,7 @@ Several states have ["Idaho stop"](https://en.wikipedia.org/wiki/Idaho_stop) law
 * [Helmet mandates in particular are generally used to discourage and criminalize biking](https://www-curbed-com.cdn.ampproject.org/v/s/www.curbed.com/amp/2021/06/bicycle-helmet-laws-new-york-felder.html?amp_gsa=1&amp_js_v=a6&usqp=mq331AQFKAGwASA%3D#amp_tf=From%20%251%24s&aoh=16233527802479&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.curbed.com%2F2021%2F06%2Fbicycle-helmet-laws-new-york-felder.html).
 * [50%-70% of all traumatic brain injuries occur in car crashes](https://nyc.streetsblog.org/2020/01/28/op-ed-yes-gov-cuomo-car-helmets-could-save-lives/); arguably better policy is to require helmet for car occupants:
 
-![Image of a helmet-less cyclist riding next to a helmet-wearing motorist, with caption: &quot;&#xBD; of all serious injuries happen inside motor vehicles &#x2013; if you drive a car, wear a helmet!&quot;](https://user-images.githubusercontent.com/465045/110815854-ce037c80-8258-11eb-8f10-76bfaa82cd75.png)
+![Image of a helmet-less cyclist riding next to a helmet-wearing motorist, with caption: &quot;&#xBD; of all serious injuries happen inside motor vehicles &#x2013; if you drive a car, wear a helmet!&quot;](/renamed-imgs/car-helmets.png)
 
 See also: [discussion of specific helmets is in the "Gear" section](gear.md#helmets).
 
@@ -101,13 +101,13 @@ See also: [discussion of specific lights I like](gear.md#lights).
 
 I usually wear [this $15 pink hi-viz vest while riding](https://www.amazon.com/gp/product/B06VTPF73Z/): 
 
-![rear GoPro view of me riding electric Brompton on 5th Ave in NYC](https://user-images.githubusercontent.com/465045/125342408-e24ca880-e322-11eb-90bf-42a27013d4df.png)
+![rear GoPro view of me riding electric Brompton on 5th Ave in NYC](/renamed-imgs/vanmoof-rear-view-brompton.png)
 
 Drivers seem to mess with me less when I'm wearing hi-viz.
 
 [This Amazon vest](https://www.amazon.com/gp/product/B07VQ1HBVV/) also lets you print custom images on it: 
 
-![blue hi-viz vest with an image of Kermit standing one-legged on a bicycle seat](https://user-images.githubusercontent.com/465045/125342252-a6b1de80-e322-11eb-8b4f-3b6e41d2af25.png)
+![blue hi-viz vest with an image of Kermit standing one-legged on a bicycle seat](/renamed-imgs/kermit-vest.png)
 
 ## Route Planning
 
@@ -117,11 +117,11 @@ Google Maps Street View has been indispensable for checking out roads before rid
 
 Ironically, it can even help identify when Google Maps directions are sending you somewhere unsafe, like [this 4-lane, 50mph no-shoulder highway](https://www.google.com/maps/@41.0907942,-73.7488006,3a,62.4y,78.16h,86.46t/data=!3m6!1e1!3m4!1sYvNGcVjsn2qqfjm5pxw0wg!2e0!7i16384!8i8192!5m1!1e3):
 
-![Screenshot of Street View showing the 4-lane, 50mph approach to a bridge on NY-22, a 50mph speed limit, and an SUV parked in the last few feet of shoulder before a bridge railing goes right up to the edge of the lane](https://user-images.githubusercontent.com/465045/110042517-e1bc5980-7d13-11eb-8580-d5a9bc5a3d81.png)
+![Screenshot of Street View showing the 4-lane, 50mph approach to a bridge on NY-22, a 50mph speed limit, and an SUV parked in the last few feet of shoulder before a bridge railing goes right up to the edge of the lane](/renamed-imgs/ny22-streetview-50mph.png)
 
 [That is apparently a "bicycle-friendly road" \\(and prioritized by Google Maps' biking directions whenever I am planning routes in this area 😱\\)](https://www.google.com/maps/@41.0890094,-73.748844,15.56z/data=!5m1!1e3): 
 
-![Screenshot of the same road on Google Maps, showing a dotted green line along it and a legend that indicates it is a ](https://user-images.githubusercontent.com/465045/110041735-9ce3f300-7d12-11eb-8c1c-71a31588721f.png)
+![Screenshot of the same road on Google Maps, showing a dotted green line along it and a legend that indicates it is a ](/renamed-imgs/ny22-gmaps.png)
 
 I also used Street View extensively when making [bit.ly/mellowbikewestchester](https://bit.ly/mellowbikewestchester) \\([discussion below](getting-started.md#mellow-bike-maps)\\); after a while you can get pretty fast at warping ahead by many increments, zooming in to scan for speed limit signs, and using the map detail in the lower-left to teleport longer distances, but it gets a bit tedious after a while. An interface better tailored to this use case would help.
 
@@ -133,11 +133,11 @@ I've also been surprised not to find any decent map apps that make it easy to se
 
 For example, [here's someone's route up Manhattan's West Side Highway and looping between the George Washington and Tappan Zee bridges](https://ridewithgps.com/trips/51461847):
 
-![Screenshot of a &quot;Ride with GPS&quot; route, showing a map view, elevation over distance, and summary statistics](https://user-images.githubusercontent.com/465045/110040762-4cb86100-7d11-11eb-8728-96871c71d024.png)
+![Screenshot of a &quot;Ride with GPS&quot; route, showing a map view, elevation over distance, and summary statistics](/renamed-imgs/rwgps-bridges-loop.png)
 
 Here is a route I made \\(and hope to ride soon\\) that includes 23 NYC bridges \\(all Manhattan bridges and a few in Brooklyn and Roosevelt/Randall's Islands\\) and 1 boat:
 
-![RideWithGPS screenshot showing route around Manhattan, zig-zagging back and forth over bridges](https://user-images.githubusercontent.com/465045/125381047-3aa29b00-e361-11eb-9d83-de2b1afe96bf.png)
+![RideWithGPS screenshot showing route around Manhattan, zig-zagging back and forth over bridges](/renamed-imgs/rwgps-bridges-route.png)
 
 ### Strava
 
@@ -149,7 +149,7 @@ Both Strava and RideWithGPS make it easy to export and import things in GPX or o
 
 Inspired by [the Chicago "mellow bike map"](https://mellowbikemap.com/), I made a ["mellow bike Westchester" Google map](https://bit.ly/mellowbikewestchester) while staying up there for a few weeks and trying to plan rides \\(for myself and others less experienced, where it was extra important not to accidentally end up on no-shoulder 45mph roads\\):
 
-![Screenshot of Google map of greater Westchester County, NY, with streets color-coded by bike-friendliness](https://user-images.githubusercontent.com/465045/110040245-78871700-7d10-11eb-93fd-e64988be65c9.png)
+![Screenshot of Google map of greater Westchester County, NY, with streets color-coded by bike-friendliness](/renamed-imgs/mellow-bike-westchester.png)
 
 ## Traveling with E-bikes
 
@@ -189,14 +189,14 @@ Other modes are generally friendly to multi-modal travel that includes e-bikes:
 
 * I frequently bring ebikes on the NY Waterway ferry \\(between NYC and NJ\\)
 
-![Electric Brompton inside a NY Waterway ferry from NJ to NYC](https://user-images.githubusercontent.com/465045/126188182-15df6c10-f7b5-47e3-9f8a-076f4854a2e9.png)
+![Electric Brompton inside a NY Waterway ferry from NJ to NYC](/renamed-imgs/brompton-ferry-wtc.png)
 
 I've run in to a couple of grey areas:
 
 * [The Port Authority recently banned e-bikes on PATH trains at all times](https://nyc.streetsblog.org/2021/06/23/the-path-train-just-quietly-banned-e-bikes-at-all-times/), though there's been a lot of pushback and [some signaling](https://twitter.com/PATHTrain/status/1407700154325606404) that they are not planning to enforce it \\(at least not very strictly\\).
 * [Metro North Railroad's bike policy seems to prohibit electric bikes](https://new.mta.info/guides/bikes/bike-permit-regulations-mnr), though we've taken the [Creo](bikes.md#creo) and [Vado](bikes.md#vado) on them without a problem:
 
-![Creo and Vado ebikes on a Metro North train](https://user-images.githubusercontent.com/465045/126187693-64091d34-932e-4a11-8a2c-257f69a6fdd6.png)
+![Creo and Vado ebikes on a Metro North train](/renamed-imgs/ebikes-metro-north.png)
 
 In general, some e-bike prohibitions seem aimed at heavier-duty \\(esp. throttle\\) e-bikes; my pedal-assist bikes generally look/weigh/fit similarly to regular bicycles, and get a pass.
 

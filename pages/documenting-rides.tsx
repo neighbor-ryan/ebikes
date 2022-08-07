@@ -15,7 +15,7 @@ This is an app I love that lives on top of Strava's API, imports your Strava his
 
 The "[Big Map](https://wandrer.earth/dashboard/map#7.75/40.618/-73.792)" is one of the main attractions:
 
-![Map of places I&apos;ve explored in NYC, NJ, Westchester County, and Connecticut](https://user-images.githubusercontent.com/465045/125385676-f1564980-e368-11eb-95c0-0f844dbedaae.png)
+![Map of places I&apos;ve explored in NYC, NJ, Westchester County, and Connecticut](/renamed-imgs/wandrer-map.png)
 
 I have a shortcut to this page on my phone home screen. On some rides I leave it open and use it to navigate in real-time, trying to ride as many new/unexplored roads as possible. It's really fun and a cool way to explore an area.
 
@@ -88,7 +88,7 @@ My GoPros each record to [a 512GB micro-SD](https://www.amazon.com/SAMSUNG-Selec
 
  _where does all that data go…? 🤯_
 
-![Side-by-side of a 512GB micro-SIM card and a quarter \\(the latter about 3x the size\\)](https://user-images.githubusercontent.com/465045/110189779-55329980-7dee-11eb-9560-d058743ed859.png)
+![Side-by-side of a 512GB micro-SIM card and a quarter \\(the latter about 3x the size\\)](/renamed-imgs/sim-card-quarter.png)
 
 I started with smaller SD cards, but worrying about the camera card's capacity was too annoying \\(on top of juggling battery + spares and archival storage capacity post-ride\\), and ultimately solvable for $75.
 

@@ -30,7 +30,7 @@ There are a lot of incredible bags you can put on your bike. Panniers are the wo
 
  _this is the bike version of SUV commercials that show ridiculous off-roading the average SUV-owner will never do_
 
-![Revelate image of a dirty touring bike with may bags attached all over](https://user-images.githubusercontent.com/465045/110191019-79917480-7df4-11eb-9b2a-44f7b6a64135.png)
+![Revelate image of a dirty touring bike with may bags attached all over](/renamed-imgs/revelate-bags-demo.png)
 
 I bought 1 \\(or [6](https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/MountainFeedbag)\\) of nearly every bag they offer \\(see [my Creo bikepacking setup](bikes.md#creo-gallery)\\), and typically mix-and-match which bags make the most sense on which bikes for a given ride.
 
@@ -40,9 +40,9 @@ Getting weight off of you \\(esp. your back!\\) and onto the bike – where it j
 
 Panniers are bags you can attach to a rack on the back of your bike, and are a great way to haul stuff by bike:
 
-![VanMoof X3 outside apartment building with 2 Ortlieb panniers on the back rack](https://user-images.githubusercontent.com/465045/110146045-1974e100-7da8-11eb-9b80-911e44c17ffd.png)
+![VanMoof X3 outside apartment building with 2 Ortlieb panniers on the back rack](/renamed-imgs/vanmoof-winter-move.png)
 
-![Tern Vektron Q9 in elevator with two full panniers and front and rear baskets with grocery bags](https://user-images.githubusercontent.com/465045/110146839-0a426300-7da9-11eb-917a-57c83443d23b.png)
+![Tern Vektron Q9 in elevator with two full panniers and front and rear baskets with grocery bags](/renamed-imgs/tern-elevator-groceries.png)
 
 I've tested a few kinds:
 
@@ -56,9 +56,9 @@ I've tested a few kinds:
 
 I love [Revelate's "Mountain Feedbags"](https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/MountainFeedbag); I've put a pair on most of my bikes:
 
-![Biking on 6th Ave with battery in feedbag charging phone mounted on handlebars](https://user-images.githubusercontent.com/465045/110157461-31ebf800-7db6-11eb-85e2-cde1656df909.png)
+![Biking on 6th Ave with battery in feedbag charging phone mounted on handlebars](/renamed-imgs/handlebars-6th-ave.png)
 
-Between them, I'll carry a battery that charges my phone while riding \\(and [sometimes other fun lights](https://user-images.githubusercontent.com/465045/110158221-17fee500-7db7-11eb-96bf-cd8e55165742.png), [GoPro batteries](gear.md#camera-batteries), etc.\\), a glasses case, tissues/chapstick/[hand-warmers](gear.md#hand-warmers)/snacks \\("it's like a deli up here", someone who borrowed my bike said recently\\), airpods, extra masks, [resealable zip ties](https://www.amazon.com/gp/product/B00YARIYL6/), etc. They are easily opened and closed with one hand, work on pretty much any bike, and are easy to transfer b/t bikes\\). Very useful.
+Between them, I'll carry a battery that charges my phone while riding \\(and [sometimes other fun lights](/renamed-imgs/light-up-ride-grove.png), [GoPro batteries](gear.md#camera-batteries), etc.\\), a glasses case, tissues/chapstick/[hand-warmers](gear.md#hand-warmers)/snacks \\("it's like a deli up here", someone who borrowed my bike said recently\\), airpods, extra masks, [resealable zip ties](https://www.amazon.com/gp/product/B00YARIYL6/), etc. They are easily opened and closed with one hand, work on pretty much any bike, and are easy to transfer b/t bikes\\). Very useful.
 
 ### Top-Tube Bags
 
@@ -105,7 +105,7 @@ My monthly quotes were around 1/300th the bike's cost, or 4% / 1/25th per year, 
 * Kickstand: [this two-legged style of kickstand](https://www.amazon.com/gp/product/B00LNLXML4/) is sturdy and easy to deal with
 * Rear-View Mirrors: [I have this one](https://www.amazon.com/gp/product/B07G5H2RSM/) and [this one](https://www.amazon.com/gp/product/B07V5DJR8Z/) mounted on handlebars on 2 different bikes.
 
-![cockpit view of Creo roadbike with mirror attached to end of left drop-bar](https://user-images.githubusercontent.com/465045/125354934-64909900-e332-11eb-8733-4fc82b19bd60.png)
+![cockpit view of Creo roadbike with mirror attached to end of left drop-bar](/renamed-imgs/creo-cockpit-rear-mirror.png)
 
 ### Helmets
 
@@ -117,7 +117,7 @@ I wear [a Lumos light-up helmet](https://lumoshelmet.co/products/lumos-kickstart
 
 Having my phone mounted up front on my handlebars has been surprisingly useful. I typically have Google Maps' turn-by-turn directions or [Strava's](getting-started.md#strava-route-planning) speedometer up while riding:
 
-![Chest-cam shot of phone mounted on handlebars displaying a Google Map, another e-biker is in front, and the George Washington Bridge is in the background](https://user-images.githubusercontent.com/465045/110153857-948ec500-7db1-11eb-8fd9-3b13e3d68e5d.png)
+![Chest-cam shot of phone mounted on handlebars displaying a Google Map, another e-biker is in front, and the George Washington Bridge is in the background](/renamed-imgs/handlebars-hrg-gwb-bags.png)
 
 When getting started, you're mostly riding in areas you're less familiar with. Having the map handy helps to not feel lost or get lost, as well as to e.g. find detours if a road doesn't feel safe.
 
@@ -140,11 +140,11 @@ I've also thrown [party](https://www.amazon.com/gp/product/B07G36BT9P/) [lights]
 
 ![Brompton Electric with cheap Amazon party lights, waiting for ferry](.gitbook/assets/image%20%281%29.png)
 
-![One of my &quot;leg-bikes&quot; with disco lights illuminating pavement around it](https://user-images.githubusercontent.com/465045/110817750-95fd3900-825a-11eb-8547-1e085421fb26.png)
+![One of my &quot;leg-bikes&quot; with disco lights illuminating pavement around it](/renamed-imgs/evan-lights-lsp.png)
 
 [You can have a lot of fun in this direction](http://douglas.malnati.com/2020/08/21/hey-check-out-my-bike/):
 
-![Image of bike with color-changing lights along wheels and frame](https://user-images.githubusercontent.com/465045/110819770-7d8e1e00-825c-11eb-8db7-9b454e9f1884.gif)
+![Image of bike with color-changing lights along wheels and frame](/renamed-imgs/doug-artbike-waterfront.gif)
 
 ### Gloves <a id="gloves"></a>
 
@@ -223,11 +223,11 @@ One day last winter, I lost a glove on a ride, and [was able to find on my tapes
 
 [ ](https://photos.app.goo.gl/gDTbMgUbVnxDDBv4A)
 
-![Cockpit view showing extra glove falling out of basket onto road while hitting a pothole](https://user-images.githubusercontent.com/465045/125384395-dda9e380-e366-11eb-9c89-48c16df8fdf6.png)
+![Cockpit view showing extra glove falling out of basket onto road while hitting a pothole](/renamed-imgs/lost-glove-frame.png)
 
 We went back the next day, and someone had put it up more visibly: 
 
-![Lost glove on a mailbox near where it was lost](https://user-images.githubusercontent.com/465045/125384578-1fd32500-e367-11eb-878b-72497a0fa48c.png)
+![Lost glove on a mailbox near where it was lost](/renamed-imgs/found-glove-mailbox.png)
 
 My GoPros are a [Hero 9](https://gopro.com/en/us/shop/cameras/hero9-black/CHDHX-901-master.html) and a [Hero 8](https://gopro.com/en/us/shop/cameras/hero8-black/CHDHX-801-master.html), and I choose which one faces forward vs. backward each ride \\(rear-cam gets good front-on shots of people I'm riding with, so sometimes I'll put the higher-quality Hero 9 back there, otherwise I face it forward to get the best shots of what I'm seeing\\). The Hero 9 is the latest GoPro, and seems noticeably better than the [Hero 8](https://gopro.com/en/us/shop/cameras/hero8-black/CHDHX-801-master.html); it has a bigger battery, supposedly better stabilization, and can sit on my desk with no battery in for longer before [resetting its date+time to 1/1/2016](https://community.gopro.com/t5/Cameras/Hero-9-Date-amp-amp-Time-defaults-to-1-1-2016/td-p/783025). Both are much better than the [Hero 5 Session](https://www.amazon.com/GoPro-HERO5-Session-Waterproof-Digital/dp/B01LZTLCFX) I started with.
 
@@ -235,7 +235,7 @@ My GoPros are a [Hero 9](https://gopro.com/en/us/shop/cameras/hero9-black/CHDHX-
 
 I have ended up with 5 batteries and 2 2-battery chargers for each of my GoPros \\([this 3x-USB-C cable](https://www.amazon.com/gp/product/B08GY7FBHZ/) is handy\\):
 
-![GoPro Hero 8 and 9 cameras and 5 batteries &#x2013; including 2 2-battery chargers &#x2013; for each](https://user-images.githubusercontent.com/465045/110830639-6dc80700-8267-11eb-855f-6f949a376f5d.png)
+![GoPro Hero 8 and 9 cameras and 5 batteries &#x2013; including 2 2-battery chargers &#x2013; for each](/renamed-imgs/gopro-batteries.png)
 
 I get ≈90mins of film time per battery at 1080p24, so swapping batteries on longer rides is common. It's a bit annoying to have to pay attention to, but I guess it also ensures I don't go too long without a break / sip of water.
 
@@ -243,15 +243,15 @@ I get ≈90mins of film time per battery at 1080p24, so swapping batteries on lo
 
 I keep one of [these quick-release "J-hooks" on each camera](https://www.amazon.com/gp/product/B01N5OZYVU/):
 
-[![GoPro &quot;quick-release&quot; / &quot;J-hook&quot;](https://user-images.githubusercontent.com/465045/110822520-25a4e680-825f-11eb-9678-9a43923467c8.png)](https://www.amazon.com/gp/product/B01N5OZYVU/)
+[![GoPro &quot;quick-release&quot; / &quot;J-hook&quot;](/renamed-imgs/gopro-mount-quick-to-prongs.png)](https://www.amazon.com/gp/product/B01N5OZYVU/)
 
 …and [a corresponding quick-release plate](https://www.amazon.com/gp/product/B01BWDH7O0/) anywhere that I need to mount them:
 
-[![quick-release plate with screws underneath](https://user-images.githubusercontent.com/465045/110822710-54bb5800-825f-11eb-9f05-45d5727e0fa4.png)](https://www.amazon.com/gp/product/B01BWDH7O0/)
+[![quick-release plate with screws underneath](/renamed-imgs/gopro-mount-base.png)](https://www.amazon.com/gp/product/B01BWDH7O0/)
 
 My chest harness came in [this $30, 50pc gear kit](https://www.amazon.com/gp/product/B01171X0UW/), and [my seat-rail mount](https://www.amazon.com/gp/product/B07SRXFG2Q) involves [several more adapters than one might hope](https://www.reddit.com/r/gopro/comments/ntq8nv/rgopro_weekly_questions_thread_ask_all_of_your/h1vtohq):
 
-![Schematic of a seat-rail GoPro mount and various adapters to give me a permanent &quot;quick-release&quot; buckle on my bikes, that I can quickly clip cameras into and out of](https://user-images.githubusercontent.com/465045/125383366-4beda680-e365-11eb-889c-8c841c4a7dca.png)
+![Schematic of a seat-rail GoPro mount and various adapters to give me a permanent &quot;quick-release&quot; buckle on my bikes, that I can quickly clip cameras into and out of](/renamed-imgs/gopro-rear-mount.png)
 
 ### Tripods
 

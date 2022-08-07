@@ -1,5 +1,6 @@
 import remarkGfm from "remark-gfm";
 import React, {ReactNode} from "react";
+import Image from "next/image";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import rehypeRaw from 'rehype-raw'
@@ -55,6 +56,10 @@ export default function Markdown(content: string) {
                         {children}
                     </a>
                 </Link>,
+            img: ({node, src, placeholder, ...props}) => {
+                //return <Image src={src || ''} {...props} />
+                return <img src={src || ''} {...props} />
+            },
             h1: renderHeading,
             h2: renderHeading,
             h3: renderHeading,
