@@ -46,7 +46,6 @@ const renderHeading = (props: ReactMarkdownProps) => {
 
 export default function Markdown(content: string) {
     return <ReactMarkdown
-        children={content}
         remarkPlugins={[remarkGfm]}
         rehypePlugins={[rehypeRaw]}
         components={{
@@ -67,5 +66,7 @@ export default function Markdown(content: string) {
             h5: renderHeading,
             h6: renderHeading,
         }}
-    />
+    >
+        {content}
+    </ReactMarkdown>
 }
