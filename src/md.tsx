@@ -27,7 +27,7 @@ const renderHeading = (props: ReactMarkdownProps) => {
     // console.log("heading:", props)
     const { node, children } = props
     const elems = node.children
-    const TagName: React.FC<{}> = node.tagName as any
+    const TagName: React.FC<{ children: ReactNode }> = node.tagName as any
     if (elems.length == 0) {
         throw new Error(`No node.children found in header: ${props}, ${children}`)
     }
@@ -40,7 +40,8 @@ const renderHeading = (props: ReactMarkdownProps) => {
     } else {
         // const slug: string = buildSlug(elems)
         // return <a id={slug} href={`#${slug}`}><TagName>{children}</TagName></a>
-        return <TagName>{children}</TagName>
+        return <TagName>{ children }</TagName>
+        // return <>{TagName({ children })}</>
     }
 }
 
