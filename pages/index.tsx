@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Markdown from "../src/md";
+import Tiptap from "../components/Tiptap";
 
 const md = `
 # Table of contents
@@ -110,6 +111,7 @@ export default function Home() {
         <meta name="description" content="Ebikes are a Transportation Revolution" />
       </Head>
       <main className={styles.main}>
+          <Tiptap />
           {Markdown(md)}
       </main>
     </div>

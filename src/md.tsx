@@ -41,7 +41,6 @@ const renderHeading = (props: ReactMarkdownProps) => {
         // const slug: string = buildSlug(elems)
         // return <a id={slug} href={`#${slug}`}><TagName>{children}</TagName></a>
         return <TagName>{ children }</TagName>
-        // return <>{TagName({ children })}</>
     }
 }
 
