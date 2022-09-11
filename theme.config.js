@@ -4,15 +4,12 @@ export default {
     titleSuffix: ' - E-bikes are a Transportation Revolution',
     // defaultMenuCollapsed: true,
     toc: {
-        float: true,
+        float: false,
     },
-    floatTOC: true,
     navigation: {
         next: true,
         prev: true,
     },
-    // nextLinks: true,
-    // prevLinks: true,
     // search: true,
     // customSearch: null, // customizable, you can use algolia for example
     // darkMode: true,
