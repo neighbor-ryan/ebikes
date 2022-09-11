@@ -1,6 +1,3 @@
-import Markdown from "../src/md";
-
-const md = `
 # Reflections
 
 ### Speed ⟹ Safety <a href="speed-safety" id="speed-safety"></a>
@@ -23,7 +20,7 @@ Related:
 
 * During COVID, [Citibike NYC saw a 147% increase in women cycling (vs. 68% increase in men)](https://www.nytimes.com/2020/10/07/nyregion/nyc-biking-covid-women.html)
 * In Paris, [the percent of women among new bike-share subscribers rose from 40% to 49%](https://nextcity.org/daily/entry/how-new-york-and-paris-got-women-into-the-bike-saddle)
-* [There's a fascinating history of bicycling + feminism](https://en.wikipedia.org/wiki/Bicycling\\_and\\_feminism)
+* [There's a fascinating history of bicycling + feminism](https://en.wikipedia.org/wiki/Bicycling_and_feminism)
 * My 70yo in-laws have been ebike-pilled in their hilly town in Westchester; it's a wonderful way to allow people to get around, get to know their own neighborhoods, get fresh air / exercise, and accomplish daily tasks.
 
 ### Speed ⟹ Convenience <a href="speed-convenience" id="speed-convenience"></a>
@@ -90,7 +87,7 @@ Compare to car-centric North American analogs:
 
 ![Satellite picture of Arrowhead Stadium in Kansas City, with huge amounts of parking](/renamed-imgs/parking-surface-2-stadium.png)
 
-![Satellite picture of AT\\&T Stadium, Arlington, surrounded by parking 2-3x the sqft of the structure](/renamed-imgs/parking-surface-3-stadium.png)
+![Satellite picture of AT&T Stadium, Arlington, surrounded by parking 2-3x the sqft of the structure](/renamed-imgs/parking-surface-3-stadium.png)
 
 ![Satellite image of Newark, NJ, with areas dedicated to surface parking highlighted](/renamed-imgs/parking-surface-1.png)
 
@@ -118,7 +115,7 @@ There is a small (but growing), dedicated group of people that love to show off 
 
 #### Kids <a href="kids" id="kids"></a>
 
-Even my X3 (VanMoof's smallest bike) supports [a Yepp child seat](https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-yepp-maxi-\\_-12020232) (the most popular brand I see used):
+Even my X3 (VanMoof's smallest bike) supports [a Yepp child seat](https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-yepp-maxi-_-12020232) (the most popular brand I see used):
 
 ![VanMoof X3 with a child seat on the back](/renamed-imgs/vanmoof-kid-seat.png)
 
@@ -195,10 +192,3 @@ Interacting with roads on a bike _feels better_ in its own right (in at least me
 It also underscores how ill-suited private cars are to urban environments: [watching one double-parked car or truck snarl blocks of traffic](broken-reference), hearing [horn honks or mufflers that are obnoxious (if not dangerous)](broken-reference) over [a radius that typically includes 1000's of homes](broken-reference), watching parents+stroller bullied in crosswalks by turning SUVs w/ [head-height grills](broken-reference), etc.… cars don't work very well in dense areas, and they ruin them for everyone outside them.
 
 I'm sorry to speak so negatively but there is enormous, real, preventable harm happening every day because of the level of car-dependence in the US, and most Americans have never known any kind of modern or functional public transit, so it's important to talk both about how much better we can make things but also what is bad about the status quo that most people don't realize or fully appreciate. The [War on Cars](broken-reference) section discusses this with more detail and rigor.
-`
-
-export default function Home() {
-    return (
-        <div>{Markdown(md)}</div>
-    )
-}
