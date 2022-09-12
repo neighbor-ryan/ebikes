@@ -5,5 +5,6 @@ const withNextra = require('nextra')({
   // optional: add `unstable_staticImage: true` to enable Nextra's auto image import
   reactStrictMode: true,
   swcMinify: true,
+  //trailingSlash: true,
 })
 module.exports = withNextra()
