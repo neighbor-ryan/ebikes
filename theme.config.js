@@ -2,7 +2,6 @@ export default {
     project: { link: 'https://github.com/neighbor-ryan/ebikes', }, // GitHub link in the navbar
     docsRepositoryBase: 'https://github.com/neighbor-ryan/ebikes', // base URL for the docs repository
     titleSuffix: ' - E-bikes are a Transportation Revolution',
-    // defaultMenuCollapsed: true,
     toc: {
         float: false,
     },
@@ -10,11 +9,12 @@ export default {
         next: true,
         prev: true,
     },
-    // search: true,
-    // customSearch: null, // customizable, you can use algolia for example
+    unstable_flexsearch: {
+        codeblocks: true,
+    },
+    search: { placeholder: "Search pages", },
     // darkMode: true,
-    // footer: true,
-    // footerText: '',  // `MIT ${new Date().getFullYear()} © Shu Ding.`,
+    footer: { text: "", },
     editLink: { text: `Edit this page on GitHub`, },
     logo: (
         <>
